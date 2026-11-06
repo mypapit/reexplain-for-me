@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reexplain For Me"
+  short_description: "Specialist concepts explained step by step"
+  default_prompt: "Use $reexplain-for-me to break down this concept to me."
